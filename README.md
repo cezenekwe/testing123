@@ -1,7 +1,7 @@
 <details>
-<summary> Informaition Assurance Classes1?</summary>
+<summary> Informaition Assurance </summary>
 <br>
-This class is a marketing class2.
+MAJ 6610.
 <br><br>
 <pre>
 
