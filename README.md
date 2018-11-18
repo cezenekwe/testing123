@@ -5,7 +5,7 @@ This class is a marketing class2.
 <br><br>
 <pre>
 
-
+----------------------
 <details open>
 <summary>Want to ruin the surprise?</summary>
 <br>
