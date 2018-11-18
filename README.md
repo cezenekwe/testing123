@@ -1,16 +1,10 @@
 <details>
 <summary> Informaition Assurance Classes1?</summary>
 <br>
-Informaition Assurance Classes 2.
+This class is a marketing class2.
 <br><br>
 <pre>
-&lt;details&gt;
-&lt;summary&gt;Informaition Assurance Classes3?&lt;/summary&gt;
-&lt;br&gt;
-Informaition Assurance Classes 4.
-&lt;details&gt;
-</pre>
-</details>
+
 
 ---
 
