@@ -1,13 +1,13 @@
 <details>
-<summary>How do I dropdown?</summary>
+<summary> Informaition Assurance Classes1?</summary>
 <br>
-This is how you dropdown.
+Informaition Assurance Classes 2.
 <br><br>
 <pre>
 &lt;details&gt;
-&lt;summary&gt;How do I dropdown?&lt;/summary&gt;
+&lt;summary&gt;Informaition Assurance Classes3?&lt;/summary&gt;
 &lt;br&gt;
-This is how you dropdown.
+Informaition Assurance Classes 4.
 &lt;details&gt;
 </pre>
 </details>
