@@ -7,7 +7,7 @@ This class is a marketing class2.
 
 ----------------------
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Teache Black ?</summary>
 <br>
 Well, you asked for it!
 <br><br>
