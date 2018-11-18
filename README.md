@@ -7,7 +7,7 @@ MAJ 6610.
 
 ----------------------
 <details open>
-<summary>Teache Black ?</summary>
+<summary>Teacher  Massah ?</summary>
 <br>
 Well, you asked for it!
 <br><br>
