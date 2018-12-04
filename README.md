@@ -7,23 +7,20 @@
 <ul>
 <li> INFORMATION ASSURANCE</li>
 <ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
+<li> CLASS 1</li>
+<li> CLASS 2</li>
 </ul>
 <li> PROJECT MANAGMENT</li>
 </ul>
- <li> nested list 1</li>
-<li> nested list 2</li>
- <li> INFORMATION ASSURANCE</li>
+ <li> Class 3</li>
+<li> class 4</li>
+ 
+ <li> CYBER SECURITY</li>
 <ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
+<li> class 6</li>
+<li> class 7</li>
 </ul>
-<li> PROJECT MANAGMENT</li>
-</ul>
- <li> nested list 1</li>
-<li> nested list 2</li>
- </ul>
+
 
  
 </details>
