@@ -5,22 +5,31 @@
 <details>
 <summary>PLEASE CHOOSE YOUR FOLLOWING MAJOR BELOW</summary>
 <ul>
-<li> INFORMATION ASSURANCE</li>
-<ul>
-<li> CLASS 1</li>
-<li> CLASS 2</li>
-</ul>
-<li> PROJECT MANAGMENT</li>
-</ul>
- <li> Class 3</li>
-<li> class 4</li>
- 
- <li> CYBER SECURITY</li>
-<ul>
-<li> class 6</li>
-<li> class 7</li>
-</ul>
 
+<details>
+<summary>INFORMATION ASSURANCE</summary>
 
- 
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
+<details>
+<summary>IPM</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
+<details>
+<summary>CYBERSECURITY</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
 </details>
