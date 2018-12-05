@@ -3,10 +3,6 @@
 ![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)
 
 <details>
-<summary>PLEASE CHOOSE YOUR FOLLOWING MAJOR BELOW</summary>
-<ul>
-
-<details>
 <summary>INFORMATION ASSURANCE</summary>   
     
 | Tables        | Are           | Cool  |
