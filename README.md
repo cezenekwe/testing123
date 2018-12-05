@@ -2,8 +2,6 @@
 
 ![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)
 
-<details>
-<summary>CLICK HERE</summary>
 
 
 <details>
@@ -41,5 +39,4 @@
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
-</details>
 
