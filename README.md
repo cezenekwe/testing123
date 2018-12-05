@@ -6,16 +6,35 @@
 <details>
 <summary>Heading</summary>
 <ul>
-<li> markdown list 1</li>
+<li> THIS ARE THE CLASSES </li>
 <ul>
-<li>| Tables   |      Are      |  Cool |
+
+<li> INFORMATION ASSURANCE</li>
+</ul>
+<li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
+</ul>
+</details>
+
+| Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |</li>
+| col 3 is | right-aligned |    $1 |
 
-<li> nested list 2</li>
+<details>
+<summary>Heading</summary>
+<ul>
+<li> THIS ARE THE CLASSES </li>
+<ul>
+
+<li> INFORMATION ASSURANCE</li>
 </ul>
-<li> markdown list 2</li>
+<li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
 </ul>
 </details>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
