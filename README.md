@@ -8,7 +8,12 @@
 <ul>
 <li> markdown list 1</li>
 <ul>
-<li> nested list 1</li>
+<li>| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |</li>
+
 <li> nested list 2</li>
 </ul>
 <li> markdown list 2</li>
