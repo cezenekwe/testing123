@@ -10,7 +10,7 @@
 <li> THIS ARE THE CLASSES </li>
 <ul>
 
-<li> INFORMATION ASSURANCE</li>
+<li> INFORMATION ASSURANCE </li>
 </ul>
 <li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
 </ul>
