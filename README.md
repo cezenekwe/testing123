@@ -5,7 +5,7 @@
 
 
 <details>
-<summary>Heading</summary>
+<summary>INFORMATION ASSURANCE</summary>
 <ul>
 <li> THIS ARE THE CLASSES </li>
 <ul>
@@ -16,7 +16,7 @@
 </ul>
 </details>
 
-|  Information Assurance     | Instructor                 | Cost                       | Schedule                 | Register
+|  Course     | Instructor                 | Cost                       | Schedule                 | Register
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------:|-----------------
 | - [SEC 6050](http://www.wilmu.edu/courses/syllabipdf/SEC6050.pdf)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       | [Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6070](http://www.wilmu.edu/courses/syllabipdf/SEC6070.pdf)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
@@ -25,7 +25,7 @@
 | - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 
 <details>
-<summary>Heading</summary>
+<summary>Project Managment</summary>
 <ul>
 <li> THIS ARE THE CLASSES </li>
 <ul>
@@ -36,7 +36,7 @@
 </ul>
 </details>
 
-|  Project Managment        | Instructor                  | Cost                       | Schedule                 | 
+|  Course        | Instructor                  | Cost                       | Schedule                 | 
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------
 | - [IPM 6000](http://www.wilmu.edu/courses/syllabipdf/IPM6000.pdf)                | [Mike Tyson](https://www.linkedin.com/in/mike-tyson-258351b2/)                 | $1600                      |Monday / Tuesday          |
 | - [IPM 6020](http://www.wilmu.edu/courses/syllabipdf/IPM6000.pdf)               | [Edward Mc Keown](https://www.linkedin.com/in/doctor-edward/)            | $1600                      |Thursday                  |
@@ -45,7 +45,7 @@
 | - [IPM 6050](http://www.wilmu.edu/courses/syllabipdf/IPM6050.pdf)                | [Samantha Keys](https://www.linkedin.com/in/samanthafernandez/)              | $1400                      |Wednesday /Thursday       |
 
 <details>
-<summary>Heading</summary>
+<summary>Cyber Security</summary>
 <ul>
 <li> THIS ARE THE CLASSES </li>
 <ul>
@@ -56,7 +56,7 @@
 </ul>
 </details>
 
-|  Cyber Security            | Instructor                 | Cost                       | Schedule                 | 
+|  Course            | Instructor                 | Cost                       | Schedule                 | 
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------
 | - [CYB 6000](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Drew Brees](https://www.linkedin.com/in/drew-brees-167546113/)                 | $1600                      |Wednesday                 |
 | - [CYB 6010](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                | [Dan Mario](https://www.linkedin.com/in/dan-mario-34b005101/)                 | $1600                      |Tuesday                   |
