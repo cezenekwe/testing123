@@ -12,13 +12,6 @@
 <ul>
 <br>
 <li> COURSES AVAILABLE ARE </li>
-
-</ul>
-<li>+ SEC6050
-    + SEC6070
-    + SEC6010
-    + SEC6030
-    + SEC6060.</li>
 </ul>
 </details>
 
