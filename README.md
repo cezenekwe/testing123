@@ -23,15 +23,16 @@
 | - [SEC 6030](http://www.wilmu.edu/courses/syllabipdf/SEC6030.pdf)                 | [Jhon Smith](https://www.linkedin.com/in/jhon-smith-058211167/)                | $1400                      |Monday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 
-<details>
-<summary>PROJECT MANAGEMENT</summary>
-<ul>
-<li> THIS ARE THE CLASSES </li>
-<ul>
 
-<li> Project Managment</li>
-</ul>
-<li> The course helps to get better knowledge of risk management solutions based on project and program management standards developed by Project Management Institute (PMI)® and learn to put them into practice. ... The course provides detailed discussion of techniques to organize risk monitoring and control.</li>
+
+<details>
+<summary> PROJECT MANAGEMENT</summary>
+<ul>
+<li> The course helps to get better knowledge of risk management solutions based on project and program management standards developed by Project Management Institute (PMI)® and learn to put them into practice. ... The course provides detailed discussion of techniques to organize risk monitoring and control</li>
+
+<ul>
+<br>
+<li> COURSES AVAILABLE ARE </li>
 </ul>
 </details>
 
@@ -44,16 +45,15 @@
 | - [IPM 6050](http://www.wilmu.edu/courses/syllabipdf/IPM6050.pdf)                | [Samantha Keys](https://www.linkedin.com/in/samanthafernandez/)              | $1400                      |Wednesday /Thursday       |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 
 <details>
-<summary>CYBER SECURITY</summary>
+<summary> CYBER SECURITY</summary>
 <ul>
-<li> THIS ARE THE CLASSES </li>
-<ul>
-
-<li>Cyber Security</li>
-</ul>
 <li> This course will provide a basic introduction to of all aspects of cyber-security including
 business, policy and procedures, communications security, network security, security
 management, legal issues, political issues, and technical issues</li>
+
+<ul>
+<br>
+<li> COURSES AVAILABLE ARE </li>
 </ul>
 </details>
 
