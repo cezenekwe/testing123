@@ -12,9 +12,9 @@
 
 <ul>
 <br>
-<li> COURSES AVAILABLE ARE </li>
+<li> COURSES AVAILABLE ARE </li> </details>
 </ul>
-</details>
+
 
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
 |:----------:|:---------------:|:-----:|:-------------------:|:-------------------:|
