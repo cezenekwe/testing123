@@ -7,18 +7,18 @@
 <details>
 <summary> INFORMATION ASSURANCE</summary>
 <ul>
+<li> This course provides an overview of the fields of IT Security, Information Assurance and Risk Management. IT Security and Information Assurance are concerned with threats to the Confidentiality, Integrity and Availability (CIA) of information systemsE </li>
+
+<ul>
+
 <li> COURSES AVAILABLE ARE </li>
-  + SEC6050
+
+</ul>
+<li>   + SEC6050
     + SEC6070
     + SEC6010
     + SEC6030
-    + SEC6060
-<ul>
-
-<li> INFORMATION ASSURANCE </li>
-
-</ul>
-<li> This course provides an overview of the fields of IT Security, Information Assurance and Risk Management. IT Security and Information Assurance are concerned with threats to the Confidentiality, Integrity and Availability (CIA) of information systems.</li>
+    + SEC6060.</li>
 </ul>
 </details>
 
