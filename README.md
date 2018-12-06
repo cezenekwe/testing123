@@ -12,7 +12,7 @@
 
 <li> INFORMATION ASSURANCE </li>
 </ul>
-<li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
+<li> This course provides an overview of the fields of IT Security, Information Assurance and Risk Management. IT Security and Information Assurance are concerned with threats to the Confidentiality, Integrity and Availability (CIA) of information systems.</li>
 </ul>
 </details>
 
@@ -32,7 +32,7 @@
 
 <li> Project Managment</li>
 </ul>
-<li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
+<li> The course helps to get better knowledge of risk management solutions based on project and program management standards developed by Project Management Institute (PMI)® and learn to put them into practice. ... The course provides detailed discussion of techniques to organize risk monitoring and control.</li>
 </ul>
 </details>
 
@@ -52,7 +52,9 @@
 
 <li>Cyber Security</li>
 </ul>
-<li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
+<li> This course will provide a basic introduction to of all aspects of cyber-security including
+business, policy and procedures, communications security, network security, security
+management, legal issues, political issues, and technical issues</li>
 </ul>
 </details>
 
