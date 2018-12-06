@@ -5,6 +5,7 @@
 
 
 <details>
+  
 <summary> INFORMATION ASSURANCE</summary>
 <ul>
 <li> This course provides an overview of the fields of IT Security, Information Assurance and Risk Management. IT Security and Information Assurance are concerned with threats to the Confidentiality, Integrity and Availability (CIA) of information systems </li>
